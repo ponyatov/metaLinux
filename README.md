@@ -1,0 +1,2 @@
+# metaLinux
+/home/metaL
